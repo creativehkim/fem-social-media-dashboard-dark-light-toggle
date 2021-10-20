@@ -10,7 +10,7 @@ CSS Variables (custom properties)
 
 Prefers-color-scheme media query
 
-Accessibility
+Accessibility  
 
 - Use correct heading tags
 - Screenheader-only text for card titles/username
