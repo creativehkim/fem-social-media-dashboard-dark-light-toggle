@@ -8,7 +8,8 @@ Light/Dark Mode Toggle
 
 CSS Variables (custom properties)
 
-Prefers-color-scheme media query
+Prefers-color-scheme media query: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+
 
 Accessibility  
 
